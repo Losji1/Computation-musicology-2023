@@ -2,7 +2,5 @@
 
 The corpus I chose is a playlist from my spotify, this playlist is a list full of different types of music.
 
-I am testing to push right now so dont attack me pls :)
-en deze test hehe
-
+My corpus will be my 2022 most listened songs, I think there is alot of different songs/artists/genres etc.
 
